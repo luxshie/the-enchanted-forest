@@ -10,7 +10,7 @@ What path will you take?
 
 ## List 
 1. 
-2. 
+2. Follow the shimmering pathway deeper into the forest.
 3. 
 4.  
 
