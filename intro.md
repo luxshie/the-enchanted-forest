@@ -9,6 +9,7 @@ But before you embark on this quest, you must make a choice:
 What path will you take?
 
 ## List 
+
 1. 
 2. [Scarying dark pathway](./choice2.md)
 3. 
