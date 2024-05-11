@@ -4,4 +4,4 @@ You decide to follow the shimmering pathway, curious about where it might lead. 
 After a while, you come across a clearing with a crystal-clear pond in the center. The water sparkles in the sunlight, inviting you to take a closer look. You notice something glinting at the bottom of the pond.
 
 ### Not satisfied with the choice?
-[Start Again](./choice2.md)
+[Start Again](./intro.md)
