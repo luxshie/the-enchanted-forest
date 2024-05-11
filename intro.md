@@ -9,7 +9,7 @@ But before you embark on this quest, you must make a choice:
 What path will you take?
 
 ## List 
-1. The Shimmering Path
+1. [The Shimmering Path](./intro.md)
 2. 
 3. 
 4.  
