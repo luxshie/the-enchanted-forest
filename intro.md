@@ -11,6 +11,6 @@ What path will you take?
 ## List 
 1. [The Shimmering Path](./choice1.md)
 2. 
-3. 
+3. [Hidden Trail](./choice3.md)
 4.  
 
