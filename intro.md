@@ -10,7 +10,7 @@ What path will you take?
 
 ## List 
 1. 
-2. Follow the shimmering pathway deeper into the forest.
+2. [Scarying dark pathway](./choice3.md)
 3. 
 4.  
 
