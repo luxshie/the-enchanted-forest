@@ -10,7 +10,7 @@ What path will you take?
 
 ## List 
 1. 
-2. [Scarying dark pathway](./choice3.md)
+2. [Scarying dark pathway](./choice2.md)
 3. 
 4.  
 
